@@ -1,5 +1,5 @@
-<h1 align="center">![Header](github-header-image.png)
-</h1>
+<img src="github-header-image.png" alt="GitHub Banner" width="100%" />
+
 <h3 align="center">A passionate Backend developer from Buenos Aires</h3>
 
 <h3 align="left">Connect with me:</h3>
